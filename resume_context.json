@@ -1,0 +1,103 @@
+{
+    "name": "Muhammad Abdul Ahad Hashmi",
+    "title": "AI & Python Developer",
+    "experience_years": 2,
+    "summary": "Aspiring AI Developer and BSIT graduate with strong foundations in Python, Machine Learning, and Web Development (Flask/Django). Experienced in building predictive models using XGBoost with 91% accuracy and integrating LLM APIs (DeepSeek). Proven ability to develop scalable web solutions including a heart disease risk prediction system and sentiment analysis platform with 88% accuracy. Backed by professional internship experience in software development at Moboroid.",
+
+    "core_skills": [
+        "Python", "Django", "Flask", "FastAPI",
+        "Machine Learning", "Scikit-Learn", "XGBoost", "PyTorch",
+        "Neural Networks", "NLP", "Data Mining",
+        "REST API Integration", "Workflow Automation",
+        "Web Scraping", "Selenium", "Data Visualization",
+        "Pandas", "NumPy", "Matplotlib", "PowerBI",
+        "SQL", "MySQL", "PostgreSQL", "SQLAlchemy",
+        "Docker", "Railway", "Vercel",
+        "Streamlit", "Bootstrap", "Tailwind CSS",
+        "C++", "Git", "GitHub"
+    ],
+
+    "tools": [
+        "VS Code", "Google Colab", "Anaconda",
+        "Jupyter Notebook", "Postman", "Git"
+    ],
+
+    "work_experience": [
+        {
+            "role": "Software Engineering Intern (Android)",
+            "company": "Moboroid",
+            "location": "Mirpur AJK",
+            "year": "2024",
+            "duration": "06/2024 - 08/2024",
+            "highlights": [
+                "Collaborated with development team to build and maintain mobile applications using Java and XML",
+                "Optimized application logic and fixed bugs, reducing app crashes by ~30%",
+                "Hands-on experience with Object-Oriented Programming (OOP) and API integration in professional Agile environment"
+            ]
+        },
+        {
+            "role": "AI Developer Apprentice",
+            "company": "Pakistan Software Export Board (PSEB)",
+            "year": "2026",
+            "duration": "Current",
+            "highlights": [
+                "Developing AI solutions under national tech export program",
+                "Working on real-world AI integration projects"
+            ]
+        }
+    ],
+
+    "flagship_project": {
+        "name": "Riskbeat - Heart Disease Risk Prediction System",
+        "description": "Developed an AI-powered healthcare prediction module using XGBoost achieving 91% validation accuracy for patient risk classification. Engineered a full-stack solution using Flask to serve the model to end-users in real-time. Implemented Role-Based Access Control (RBAC) for patients, doctors, and admins with advanced data preprocessing including handling missing values, normalization, and categorical encoding.",
+        "tech_stack": ["Python", "XGBoost", "Flask", "Machine Learning", "RBAC", "Data Preprocessing"],
+        "accuracy": "91%"
+    },
+
+    "other_projects": [
+        {
+            "name": "Talken AI Chatbot",
+            "description": "Built a conversational AI agent using Flask and DeepSeek API for real-time natural language processing with secure session management to maintain conversation context. Deployed on cloud platforms with secure environment configuration for API keys.",
+            "tech_stack": ["Python", "Flask", "DeepSeek API", "LLM", "Session Management"],
+            "year": "2025"
+        },
+        {
+            "name": "IMDb & Twitter Sentiment Analysis",
+            "description": "Built end-to-end sentiment analysis model for positive/negative text classification using NLP techniques. Applied text preprocessing (cleaning, tokenization, stopword removal, lemmatization) and TF-IDF vectorization. Trained Logistic Regression and Naive Bayes models achieving 88% accuracy. Deployed Streamlit web app for real-time sentiment prediction.",
+            "tech_stack": ["Python", "NLP", "Scikit-Learn", "TF-IDF", "Logistic Regression", "Naive Bayes", "Streamlit"],
+            "accuracy": "88%",
+            "year": "2025-2026"
+        },
+        {
+            "name": "Software Piracy Protection System",
+            "description": "Co-developed Python-based desktop application focusing on file encryption, packing, and license key validation. Designed user-friendly GUI to manage software registration and decryption processes.",
+            "tech_stack": ["Python", "Desktop Application", "Encryption", "GUI Development"],
+            "year": "2024"
+        }
+    ],
+
+    "education": {
+        "degree": "Bachelor of Science in Information Technology (BSIT)",
+        "institution": "Mirpur University of Science & Technology",
+        "cgpa": "3.4/4.0",
+        "rank": "Top 3 of the Session",
+        "key_coursework": ["Data Structures", "Analysis of Algorithms", "Artificial Intelligence", "Database Systems"]
+    },
+
+    "certifications": [
+        "Foundations of Data Science - Google",
+        "Artificial Intelligence Journey: Beginner to Pro",
+        "AI Essentials - Google",
+        "Hands On Python Data Science - Data Science Bootcamp"
+    ],
+
+    "github": "https://github.com/abdulahad112",
+
+    "linkedin": "https://www.linkedin.com/in/abdul-ahad-1311b824a/",
+
+    "email": "gokuahad11@gmail.com",
+
+    "phone": "+92 333 1482919",
+
+    "tone": "professional but approachable, confident without being arrogant, results-focused"
+}
